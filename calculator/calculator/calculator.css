@@ -1,0 +1,41 @@
+table {
+    margin: 20px;
+    padding: 1px;
+}
+
+th,
+input {
+    height: 120px;
+    width: 410px;
+    background-color: rgb(233, 233, 233);
+    text-align: right;
+    font-size: 40px;
+}
+
+button {
+    border: 0px;
+    height: 100px;
+    width: 100px;
+    padding: 0;
+    font-size: 30px;
+}
+
+.calculate {
+    background-color: rgb(231, 231, 235);
+}
+
+.operate {
+    color: coral;
+}
+
+.Soperate {
+    border: 0px;
+    height: 100px;
+    width: 207px;
+    font-size: 30px;
+    color: coral;
+}
+
+button:hover {
+    background-color: rgb(147, 231, 253)
+}
